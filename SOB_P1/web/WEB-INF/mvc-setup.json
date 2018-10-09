@@ -1,0 +1,58 @@
+{
+    "commands": [
+        {
+            "URI": "/init",
+            "class": "cat.urv.deim.sob.command.InitCommand" 
+        },
+        {
+            "URI": "/write",
+            "class": "cat.urv.deim.sob.command.WriteCommand" 
+        },
+        {
+            "URI": "/login",
+            "class": "cat.urv.deim.sob.command.LoginCommand" 
+        },
+        {
+            "URI": "/logout",
+            "class": "cat.urv.deim.sob.command.LogoutCommand" 
+        },
+        {
+            "URI": "/actius",
+            "class": "cat.urv.deim.sob.command.ActiusCommand" 
+        },
+        {
+            "URI": "/anteriors",
+            "class": "cat.urv.deim.sob.command.AnteriorsCommand" 
+        },
+        {
+            "URI": "/tots",
+            "class": "cat.urv.deim.sob.command.TotsCommand" 
+        },
+        {
+            "URI": "/tfgprofessor",
+            "class": "cat.urv.deim.sob.command.TfgprofessorCommand" 
+        },
+        {
+            "URI": "/registreProposat",
+            "class": "cat.urv.deim.sob.command.ProposatCommand" 
+        },
+        {
+            "URI": "/registreAssignat",
+            "class": "cat.urv.deim.sob.command.AssignatCommand" 
+        },
+        {
+            "URI": "/registreAcabat",
+            "class": "cat.urv.deim.sob.command.AcabatCommand" 
+        },
+        {
+            "URI": "/registrePendent",
+            "class": "cat.urv.deim.sob.command.PendentCommand" 
+        },
+        {
+            "URI": "/registreDefensat",
+            "class": "cat.urv.deim.sob.command.DefensatCommand" 
+        }
+
+
+    ]
+}
